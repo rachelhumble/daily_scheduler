@@ -1,0 +1,13 @@
+#main {
+    width: 1000px;
+    padding: 10px;
+    margin-left: 15%;
+}
+
+.container {
+    text-align: center;
+}
+
+.input-group-text {
+    width: 100px;
+}
