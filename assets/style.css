@@ -19,6 +19,19 @@ body {
     /* background-color: blue; */
     width: 50px;
 }
+
+.present-color {
+    background-color: cornflowerblue;
+}
+
+.past-color {
+    background-color: lightseagreen;
+}
+
+.future-color {
+    background-color: lightpink;
+}
+
 .mb-3 {
     margin-bottom: 3px!important;
 }
